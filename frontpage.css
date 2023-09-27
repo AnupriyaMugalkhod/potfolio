@@ -1,0 +1,142 @@
+img{
+    
+    width: 400px;
+    height: 300px;
+    margin-left: 40%;
+    border: #212A3F solid 3px;
+    box-shadow: #2E2E2E 0px 0px 15px ;
+  }
+  img:hover{
+    filter: scale(1);
+    transform: scale(1.2);
+}
+  fieldset{
+    background-color: #434F5B;
+    color: #faf8f8;
+    font-family: 'Dancing Script', cursive;
+    font-size: 22px;
+  }
+  #leg{
+    color: #2E2E2E;
+    font-size:30px ;
+    font-family: 'Dancing Script', cursive;
+
+  }
+  
+  header{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    border: 3px solid #2E2E2E;
+    padding: 5px;
+    width: 100%;
+    margin: 0px auto;
+    box-shadow: 0px 0px 15px #434F5B;
+  }
+  pre{
+    font-family: 'Dancing Script', cursive;
+    color: #F2F2F2;
+    text-align: left;
+  }
+  header h1{
+    color: #212A3F;
+    font-size: 45px;
+  }
+  h1{
+    color: #212A3F;
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+  }
+  header p{
+    color: #434F5B;
+  }
+  #topnav{
+    font-family: 'Dancing Script', cursive;
+    background-color: #434F5B;
+    font-size: 30px;
+    text-transform: lowercase;
+    width: 101%;
+    margin: 0 auto;
+  }
+  #topnav ul{
+    padding: 20px 15px;
+    margin: 0px;
+    text-align: center;
+  }
+  #topnav ul li{
+    list-style-type: none;
+    display: inline;
+  }
+  #topnav ul li a{
+    color: #F2F2F2;
+    text-decoration: none;
+    margin: 0px 5px;
+    padding: 5px;
+  }
+  #topnav ul li a:hover{
+    border-bottom: 3px solid #F2F2F2;
+    transition: 50ms linear 0s;
+    -moz-transition: 50ms linear 0s;
+    -webkit-transition: 50ms linear 0s;
+  }
+  body{
+    background-color: #faf8f8;
+  }
+  #content{
+    font-family: 'Lora', serif;
+  }
+  #content h1, h2, h3, h4, h5, h6{
+    color: #212A3F;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+  }
+  #content a{
+    color:#212A3F ;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+  }
+  #content p{
+    color: #2E2E2E;
+    text-align: left;
+    width: 500px;
+    margin: 0px auto;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+  }
+  #content img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: #212A3F solid 2px;
+  }
+  #content ul{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+  }
+  #pic1{
+    padding-bottom: 5px;
+  }
+  #pic2{
+    padding-bottom: 5px;
+  }
+  #pic3{
+    padding-bottom: 5px;
+  }
+ #con{
+    border: #212A3F solid 2px;
+    background-color: #212A3F;
+    color: #F2F2F2;
+    text-align: center;
+    border-radius: 30px;
+ }
+ #con h1{
+    color: #212A3F;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+
+ }
+  
+  
+  
